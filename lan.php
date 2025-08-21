@@ -1,10 +1,5 @@
 <?php
 
-    /*
-     * for execute app enter this commond in terminal:
-     * php lan.php "Your LanSet" input.txt
-     */
-
     // ...................... Language Definitions ......................
 
     function isInL1($str) {
@@ -176,3 +171,4 @@
         processFile($expression, $filePath);
     }
 ?>
+
